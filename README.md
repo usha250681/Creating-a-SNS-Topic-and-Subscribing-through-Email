@@ -19,3 +19,9 @@ Type: Select Standard
 Name: Enter mysnstopic
 
 Display name: mysnsnotification
+
+<img width="1032" alt="TOPIC" src="https://user-images.githubusercontent.com/54776422/145666229-50bc3e2d-3ef5-40fe-a052-dc532bb68424.png">
+
+# Leave other options as default and click on # Create topic.
+
+An SNS topic will be created.
