@@ -49,3 +49,7 @@ Note: Make sure you give a valid mail address as you will receive an SNS notific
   ![image2_14_11](https://user-images.githubusercontent.com/54776422/145666393-230d818e-1fe9-4771-9c06-fe35b3f95db1.png)
 Click on Confirm subscription.
 # Your email address is now subscribed to SNS Topic mysnstopic.
+![image10_14_47](https://user-images.githubusercontent.com/54776422/145666488-6ef0733f-7922-451b-92bc-04bb527c162b.png)
+  You can unsubscribe to the SNS Topic at any time.
+
+# We can use this to subscribe to S3 events, CloudWatch events and more.
