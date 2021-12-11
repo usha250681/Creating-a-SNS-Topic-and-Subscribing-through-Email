@@ -42,3 +42,7 @@ Endpoint: Enter your <Mail Id>
 Note: Make sure you give a valid mail address as you will receive an SNS notification to this address.
 
 # Click on Create Subscription.
+
+  ![image3_13_46](https://user-images.githubusercontent.com/54776422/145666335-61a05672-29ec-489e-866f-ea83dac93641.png)
+  You will receive an email in your mailbox from SNS.
+
