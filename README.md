@@ -45,4 +45,7 @@ Note: Make sure you give a valid mail address as you will receive an SNS notific
 
   ![image3_13_46](https://user-images.githubusercontent.com/54776422/145666335-61a05672-29ec-489e-866f-ea83dac93641.png)
   You will receive an email in your mailbox from SNS.
-
+  
+  ![image2_14_11](https://user-images.githubusercontent.com/54776422/145666393-230d818e-1fe9-4771-9c06-fe35b3f95db1.png)
+Click on Confirm subscription.
+# Your email address is now subscribed to SNS Topic mysnstopic.
