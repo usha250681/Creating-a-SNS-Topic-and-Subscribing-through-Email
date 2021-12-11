@@ -25,3 +25,20 @@ Display name: mysnsnotification
 # Leave other options as default and click on # Create topic.
 
 An SNS topic will be created.
+
+![image6_12_49](https://user-images.githubusercontent.com/54776422/145666283-8eea49c5-9054-45ef-a649-d8f6d063e535.png)
+
+# Subscribing to the Topic
+Once the SNS Topic is created, click on your topic.
+
+Click Create subscription
+
+Under Details
+
+Protocol: Select Email
+
+Endpoint: Enter your <Mail Id>
+
+Note: Make sure you give a valid mail address as you will receive an SNS notification to this address.
+
+# Click on Create Subscription.
