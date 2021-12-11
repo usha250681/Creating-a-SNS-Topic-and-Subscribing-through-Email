@@ -50,6 +50,7 @@ Note: Make sure you give a valid mail address as you will receive an SNS notific
 Click on Confirm subscription.
 # Your email address is now subscribed to SNS Topic mysnstopic.
 ![image10_14_47](https://user-images.githubusercontent.com/54776422/145666488-6ef0733f-7922-451b-92bc-04bb527c162b.png)
-  You can unsubscribe to the SNS Topic at any time.
+
+You can unsubscribe to the SNS Topic at any time.
 
 # We can use this to subscribe to S3 events, CloudWatch events and more.
